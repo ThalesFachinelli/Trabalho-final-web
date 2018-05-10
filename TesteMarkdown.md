@@ -6,12 +6,12 @@
 <!-- Descrever um resumo sobre o trabalho. -->
 
 ### Resumo
-O objetivo deste documento é apresentar a proposta da dupla para o trabalho a ser desenvolvido na disciplina CSI477 -- Sistemas WEB I. O trabalho consistirá de um sistema de protocolização de requerimentos, onde o requisitante poderá fazer a protocolação de requerimentos, consultar os requisitos protocolados por ele mesmo. Haverá também um segundo tipo de usuário responsável pela análise e deferimento ou indeferimento dos mesmos.
+O objetivo deste documento é apresentar a proposta da dupla para o trabalho a ser desenvolvido na disciplina CSI477 -- Sistemas WEB I. O trabalho consistirá de um sistema de protocolização de requerimentos, onde o requisitante poderá fazer a protocolação de requerimentos e consultar os requisitos protocolados por ele mesmo. Haverá também um segundo tipo de usuário responsável pela análise e deferimento ou indeferimento dos mesmos.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de sistema de protocolização e análise de requerimentos.
+  O trabalho final tem como tema o desenvolvimento de sistema de protocolização e análise de requerimentos para o Departamento de Computação e Sistemas (DECSI) da UFOP.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
